@@ -10,3 +10,5 @@
 * **Backlog:** Llista ordenada de totes les tasques i requisits pendents del projecte.
 * **Sprint Backlog:** Conjunt de tasques seleccionades del Backlog per ser realitzades durant un sprint concret.
 * **Sprint / Iteració:** Període de temps breu i definit (ex. 2 o 3 setmanes) on es desenvolupen tasques específiques.
+* Projecte** El repositor on es guarda el codi o l'iena de gestió de tasques.
+* Md** Markdown, es un Archie de text pla per donar un fromar visual al contingut.
